@@ -16,7 +16,7 @@
 - Reading Comprehension
   - [ICLR17UnderReview] [LEARNING RECURRENT SPAN REPRESENTATIONS FOR EQA.pdf](https://github.com/ECNUICA/PaperReading/blob/master/Question%20Answering/5-ICLR17UnderReview-LEARNING%20RECURRENT%20SPAN%20REPRESENTATIONS%20FOR%20EQA.pdf)  
   Effciently builds fixed length representations of all spans in the evidence document with a recurrent network.  
-  - [ICLR17UnderReview] [DYNAMIC COATTENTION NETWORKS.pdf](https://github.com/ECNUICA/PaperReading/blob/master/Question%20Answering/6-ICLR17UnderReview-DYNAMIC%20COATTENTION%20NETWORKS.pdf)
+  - [ICLR17UnderReview] [DYNAMIC COATTENTION NETWORKS.pdf](https://github.com/ECNUICA/PaperReading/blob/master/Question%20Answering/6-ICLR17UnderReview-DYNAMIC%20COATTENTION%20NETWORKS.pdf)  
   The DCN first fuses co-dependent representations of the question and the document in order to focus on relevant parts of both. Then a dynamic pointing decoder iterates over potential answer spans.  
   - [arXiv16] [End-to-End Answer Chunk Extraction and Ranking for Reading Comprehension.pdf](https://github.com/ECNUICA/PaperReading/blob/master/Question%20Answering/7-arXiv16-IBM-Waston-End-to-End%20Answer%20Chunk%20Extraction%20and%20Ranking%20for%20Reading%20Comprehension.pdf)  
   Extract and Rank a set of answer candidates from a given document to answer questions.
