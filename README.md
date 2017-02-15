@@ -1,4 +1,10 @@
 # PaperReading
+
+## Ref
+- [AAAI 2017 accepted-papers](http://www.aaai.org/Conferences/AAAI/2017/aaai17accepted-papers.pdf)
+- [http://nlp.stanford.edu/read/](http://nlp.stanford.edu/read/)
+- [https://arxiv.org/list/cs.CL/recent](https://arxiv.org/list/cs.CL/recent)
+- [http://aclweb.org/anthology/](http://aclweb.org/anthology/)
 ## Question Answering
 
 ### [Question Answering](https://github.com/ECNUICA/PaperReading/tree/master/Question%20Answering)
